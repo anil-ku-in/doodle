@@ -56,8 +56,8 @@
         with water. As time passes, the water evaporates and your doodle
         disappears. No-pressure doodling.<br><br>
         My favourite is to turn on the colour loop and basically play snake without dying.<br>
-        Made with 👾 by <a href="https://twitter.com/notwaldorf">Monica</a>. 👀
-        this on <a href="https://github.com/notwaldorf/doodle">GitHub</a>.
+        Made with 👾 by <a href="https://twitter.com/anil_ku_in">Monica</a>. 👀
+<!--         this on <a href="https://github.com/notwaldorf/doodle">GitHub</a>. -->
       </div>
       <div id="settings" class="preamble-text" hidden>
         Press: <b>X</b> to reset the doodle, <b>C</b> to change the active colour.
