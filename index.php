@@ -56,7 +56,7 @@
         with water. As time passes, the water evaporates and your doodle
         disappears. No-pressure doodling.<br><br>
         My favourite is to turn on the colour loop and basically play snake without dying.<br>
-        Made with 👾 by <a href="https://twitter.com/anil_ku_in">Monica</a>. 👀
+        Made with 👾 by <a href="https://twitter.com/anil_ku_in">Anil Kumar</a>. 👀
 <!--         this on <a href="https://github.com/notwaldorf/doodle">GitHub</a>. -->
       </div>
       <div id="settings" class="preamble-text" hidden>
